@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\Arraylist1\bin\Debug\netcoreapp3.0\Arraylist1.exe
+C:\Users\Pavan\source\repos\Arraylist1\bin\Debug\netcoreapp3.0\Arraylist1.deps.json
+C:\Users\Pavan\source\repos\Arraylist1\bin\Debug\netcoreapp3.0\Arraylist1.runtimeconfig.json
+C:\Users\Pavan\source\repos\Arraylist1\bin\Debug\netcoreapp3.0\Arraylist1.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Arraylist1\bin\Debug\netcoreapp3.0\Arraylist1.dll
+C:\Users\Pavan\source\repos\Arraylist1\bin\Debug\netcoreapp3.0\Arraylist1.pdb
+C:\Users\Pavan\source\repos\Arraylist1\obj\Debug\netcoreapp3.0\Arraylist1.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Arraylist1\obj\Debug\netcoreapp3.0\Arraylist1.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Arraylist1\obj\Debug\netcoreapp3.0\Arraylist1.dll
+C:\Users\Pavan\source\repos\Arraylist1\obj\Debug\netcoreapp3.0\Arraylist1.pdb
