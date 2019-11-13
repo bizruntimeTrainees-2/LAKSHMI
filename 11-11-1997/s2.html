@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id = "intro">
+<h1> This is all about XMLHttpRequest </h1>
+<button type = "button" onclick = "write()" > Change content </button>
+
+</div>
+
+<script>
+function write()
+{
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function()
+    {
+        if (this.readyState == 4 && this.status == 200)
+        {
+            document.getElementById("intro").innerHTML = this.responseText;
+        }
+
+        };
+        xhttp.open("GET", "ajax1.txt", true);
+        xhttp.send();
+    }
+</script>
+</body>
+</html>
