@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\Ienumerator1\bin\Debug\netcoreapp3.0\Ienumerator1.exe
+C:\Users\Pavan\source\repos\Ienumerator1\bin\Debug\netcoreapp3.0\Ienumerator1.deps.json
+C:\Users\Pavan\source\repos\Ienumerator1\bin\Debug\netcoreapp3.0\Ienumerator1.runtimeconfig.json
+C:\Users\Pavan\source\repos\Ienumerator1\bin\Debug\netcoreapp3.0\Ienumerator1.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Ienumerator1\bin\Debug\netcoreapp3.0\Ienumerator1.dll
+C:\Users\Pavan\source\repos\Ienumerator1\bin\Debug\netcoreapp3.0\Ienumerator1.pdb
+C:\Users\Pavan\source\repos\Ienumerator1\obj\Debug\netcoreapp3.0\Ienumerator1.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\Ienumerator1\obj\Debug\netcoreapp3.0\Ienumerator1.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Ienumerator1\obj\Debug\netcoreapp3.0\Ienumerator1.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Ienumerator1\obj\Debug\netcoreapp3.0\Ienumerator1.dll
+C:\Users\Pavan\source\repos\Ienumerator1\obj\Debug\netcoreapp3.0\Ienumerator1.pdb

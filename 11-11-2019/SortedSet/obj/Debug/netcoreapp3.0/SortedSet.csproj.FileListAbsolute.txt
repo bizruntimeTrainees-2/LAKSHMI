@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\SortedSet\bin\Debug\netcoreapp3.0\SortedSet.exe
+C:\Users\Pavan\source\repos\SortedSet\bin\Debug\netcoreapp3.0\SortedSet.deps.json
+C:\Users\Pavan\source\repos\SortedSet\bin\Debug\netcoreapp3.0\SortedSet.runtimeconfig.json
+C:\Users\Pavan\source\repos\SortedSet\bin\Debug\netcoreapp3.0\SortedSet.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\SortedSet\bin\Debug\netcoreapp3.0\SortedSet.dll
+C:\Users\Pavan\source\repos\SortedSet\bin\Debug\netcoreapp3.0\SortedSet.pdb
+C:\Users\Pavan\source\repos\SortedSet\obj\Debug\netcoreapp3.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\SortedSet\obj\Debug\netcoreapp3.0\SortedSet.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\SortedSet\obj\Debug\netcoreapp3.0\SortedSet.dll
+C:\Users\Pavan\source\repos\SortedSet\obj\Debug\netcoreapp3.0\SortedSet.pdb

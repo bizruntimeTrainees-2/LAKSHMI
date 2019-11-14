@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\Sortedlist\bin\Debug\netcoreapp3.0\Sortedlist.exe
+C:\Users\Pavan\source\repos\Sortedlist\bin\Debug\netcoreapp3.0\Sortedlist.deps.json
+C:\Users\Pavan\source\repos\Sortedlist\bin\Debug\netcoreapp3.0\Sortedlist.runtimeconfig.json
+C:\Users\Pavan\source\repos\Sortedlist\bin\Debug\netcoreapp3.0\Sortedlist.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Sortedlist\bin\Debug\netcoreapp3.0\Sortedlist.dll
+C:\Users\Pavan\source\repos\Sortedlist\bin\Debug\netcoreapp3.0\Sortedlist.pdb
+C:\Users\Pavan\source\repos\Sortedlist\obj\Debug\netcoreapp3.0\Sortedlist.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Sortedlist\obj\Debug\netcoreapp3.0\Sortedlist.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Sortedlist\obj\Debug\netcoreapp3.0\Sortedlist.dll
+C:\Users\Pavan\source\repos\Sortedlist\obj\Debug\netcoreapp3.0\Sortedlist.pdb

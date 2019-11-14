@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.exe
+C:\Users\Pavan\source\repos\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.deps.json
+C:\Users\Pavan\source\repos\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.json
+C:\Users\Pavan\source\repos\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\Pavan\source\repos\LinkedList\bin\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\Pavan\source\repos\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\Pavan\source\repos\LinkedList\obj\Debug\netcoreapp3.0\LinkedList.pdb
