@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\TPL3\bin\Debug\netcoreapp3.0\TPL3.exe
+C:\Users\Pavan\source\repos\TPL3\bin\Debug\netcoreapp3.0\TPL3.deps.json
+C:\Users\Pavan\source\repos\TPL3\bin\Debug\netcoreapp3.0\TPL3.runtimeconfig.json
+C:\Users\Pavan\source\repos\TPL3\bin\Debug\netcoreapp3.0\TPL3.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\TPL3\bin\Debug\netcoreapp3.0\TPL3.dll
+C:\Users\Pavan\source\repos\TPL3\bin\Debug\netcoreapp3.0\TPL3.pdb
+C:\Users\Pavan\source\repos\TPL3\obj\Debug\netcoreapp3.0\TPL3.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\TPL3\obj\Debug\netcoreapp3.0\TPL3.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\TPL3\obj\Debug\netcoreapp3.0\TPL3.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\TPL3\obj\Debug\netcoreapp3.0\TPL3.dll
+C:\Users\Pavan\source\repos\TPL3\obj\Debug\netcoreapp3.0\TPL3.pdb

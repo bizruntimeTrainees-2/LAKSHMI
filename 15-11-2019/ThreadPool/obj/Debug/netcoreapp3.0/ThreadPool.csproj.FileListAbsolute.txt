@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.exe
+C:\Users\Pavan\source\repos\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.deps.json
+C:\Users\Pavan\source\repos\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.runtimeconfig.json
+C:\Users\Pavan\source\repos\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.dll
+C:\Users\Pavan\source\repos\ThreadPool\bin\Debug\netcoreapp3.0\ThreadPool.pdb
+C:\Users\Pavan\source\repos\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.dll
+C:\Users\Pavan\source\repos\ThreadPool\obj\Debug\netcoreapp3.0\ThreadPool.pdb
