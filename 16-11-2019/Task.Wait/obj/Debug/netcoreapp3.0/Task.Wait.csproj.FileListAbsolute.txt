@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\Task.Wait\bin\Debug\netcoreapp3.0\Task.Wait.exe
+C:\Users\Pavan\source\repos\Task.Wait\bin\Debug\netcoreapp3.0\Task.Wait.deps.json
+C:\Users\Pavan\source\repos\Task.Wait\bin\Debug\netcoreapp3.0\Task.Wait.runtimeconfig.json
+C:\Users\Pavan\source\repos\Task.Wait\bin\Debug\netcoreapp3.0\Task.Wait.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Task.Wait\bin\Debug\netcoreapp3.0\Task.Wait.dll
+C:\Users\Pavan\source\repos\Task.Wait\bin\Debug\netcoreapp3.0\Task.Wait.pdb
+C:\Users\Pavan\source\repos\Task.Wait\obj\Debug\netcoreapp3.0\Task.Wait.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\Task.Wait\obj\Debug\netcoreapp3.0\Task.Wait.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Task.Wait\obj\Debug\netcoreapp3.0\Task.Wait.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Task.Wait\obj\Debug\netcoreapp3.0\Task.Wait.dll
+C:\Users\Pavan\source\repos\Task.Wait\obj\Debug\netcoreapp3.0\Task.Wait.pdb

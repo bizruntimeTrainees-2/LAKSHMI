@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "PLINQ1/1.0.0": {
+        "runtime": {
+          "PLINQ1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLINQ1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

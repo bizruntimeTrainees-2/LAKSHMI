@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\Join\bin\Debug\netcoreapp3.0\Join.exe
+C:\Users\Pavan\source\repos\Join\bin\Debug\netcoreapp3.0\Join.deps.json
+C:\Users\Pavan\source\repos\Join\bin\Debug\netcoreapp3.0\Join.runtimeconfig.json
+C:\Users\Pavan\source\repos\Join\bin\Debug\netcoreapp3.0\Join.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Join\bin\Debug\netcoreapp3.0\Join.dll
+C:\Users\Pavan\source\repos\Join\bin\Debug\netcoreapp3.0\Join.pdb
+C:\Users\Pavan\source\repos\Join\obj\Debug\netcoreapp3.0\Join.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\Join\obj\Debug\netcoreapp3.0\Join.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Join\obj\Debug\netcoreapp3.0\Join.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Join\obj\Debug\netcoreapp3.0\Join.dll
+C:\Users\Pavan\source\repos\Join\obj\Debug\netcoreapp3.0\Join.pdb

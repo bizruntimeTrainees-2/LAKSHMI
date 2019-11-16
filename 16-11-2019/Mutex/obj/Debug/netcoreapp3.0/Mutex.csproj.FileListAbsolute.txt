@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\Mutex\bin\Debug\netcoreapp3.0\Mutex.exe
+C:\Users\Pavan\source\repos\Mutex\bin\Debug\netcoreapp3.0\Mutex.deps.json
+C:\Users\Pavan\source\repos\Mutex\bin\Debug\netcoreapp3.0\Mutex.runtimeconfig.json
+C:\Users\Pavan\source\repos\Mutex\bin\Debug\netcoreapp3.0\Mutex.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Mutex\bin\Debug\netcoreapp3.0\Mutex.dll
+C:\Users\Pavan\source\repos\Mutex\bin\Debug\netcoreapp3.0\Mutex.pdb
+C:\Users\Pavan\source\repos\Mutex\obj\Debug\netcoreapp3.0\Mutex.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\Mutex\obj\Debug\netcoreapp3.0\Mutex.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Mutex\obj\Debug\netcoreapp3.0\Mutex.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Mutex\obj\Debug\netcoreapp3.0\Mutex.dll
+C:\Users\Pavan\source\repos\Mutex\obj\Debug\netcoreapp3.0\Mutex.pdb
