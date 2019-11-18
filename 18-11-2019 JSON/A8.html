@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p> generally functions are not allowed in JSON, but if u want you can include it as a string </p>
+<p id = "D"> </p>
+<script>
+var text = '{"name : "lakky", "place": "tadipatri", "age" :"function()
+{
+	return 21;
+	},
+"email": "lakshmiroyal.1997@gmail.com"}';
+var obj = JSON.parse(text);
+obj.age = eval("(" + obj.age + ")");
+document.getElementById("D").innerHTML = obj.name +"," + obj.age;
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p> in json  objects must be string type </p>
+<p id = "B"> </p>
+<script>
+var text = '{"firstName": "lakky", "lastName":"Avula", "age": 21}'
+var obj = JSON.parse(text);
+document.getElementById("B").innerHTML = obj.firstName + "," + obj.lastName;
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p> here we converted string into date </p>
+<p id = "C"> </p>
+<script>
+var text = '{"name":"lakky", "birth":"1998-11-22" , "place": "Tadipatri"}';
+var obj = JSON.parse(text);
+obj.birth = new Date(obj.birth);
+document.getElementById("C").innerHTML = obj.name + ","+ obj.birth;
+</script>
+</body>
+</html>
