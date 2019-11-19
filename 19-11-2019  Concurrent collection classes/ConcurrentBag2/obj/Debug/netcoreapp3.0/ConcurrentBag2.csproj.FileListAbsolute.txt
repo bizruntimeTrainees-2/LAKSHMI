@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\ConcurrentBag2\bin\Debug\netcoreapp3.0\ConcurrentBag2.exe
+C:\Users\Pavan\source\repos\ConcurrentBag2\bin\Debug\netcoreapp3.0\ConcurrentBag2.deps.json
+C:\Users\Pavan\source\repos\ConcurrentBag2\bin\Debug\netcoreapp3.0\ConcurrentBag2.runtimeconfig.json
+C:\Users\Pavan\source\repos\ConcurrentBag2\bin\Debug\netcoreapp3.0\ConcurrentBag2.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\ConcurrentBag2\bin\Debug\netcoreapp3.0\ConcurrentBag2.dll
+C:\Users\Pavan\source\repos\ConcurrentBag2\bin\Debug\netcoreapp3.0\ConcurrentBag2.pdb
+C:\Users\Pavan\source\repos\ConcurrentBag2\obj\Debug\netcoreapp3.0\ConcurrentBag2.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\ConcurrentBag2\obj\Debug\netcoreapp3.0\ConcurrentBag2.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\ConcurrentBag2\obj\Debug\netcoreapp3.0\ConcurrentBag2.dll
+C:\Users\Pavan\source\repos\ConcurrentBag2\obj\Debug\netcoreapp3.0\ConcurrentBag2.pdb

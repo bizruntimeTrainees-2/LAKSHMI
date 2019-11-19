@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConcurrentStack1/1.0.0": {
+        "runtime": {
+          "ConcurrentStack1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConcurrentStack1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\BlockingCollection5\bin\Debug\netcoreapp3.0\BlockingCollection5.exe
+C:\Users\Pavan\source\repos\BlockingCollection5\bin\Debug\netcoreapp3.0\BlockingCollection5.deps.json
+C:\Users\Pavan\source\repos\BlockingCollection5\bin\Debug\netcoreapp3.0\BlockingCollection5.runtimeconfig.json
+C:\Users\Pavan\source\repos\BlockingCollection5\bin\Debug\netcoreapp3.0\BlockingCollection5.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\BlockingCollection5\bin\Debug\netcoreapp3.0\BlockingCollection5.dll
+C:\Users\Pavan\source\repos\BlockingCollection5\bin\Debug\netcoreapp3.0\BlockingCollection5.pdb
+C:\Users\Pavan\source\repos\BlockingCollection5\obj\Debug\netcoreapp3.0\BlockingCollection5.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\BlockingCollection5\obj\Debug\netcoreapp3.0\BlockingCollection5.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\BlockingCollection5\obj\Debug\netcoreapp3.0\BlockingCollection5.dll
+C:\Users\Pavan\source\repos\BlockingCollection5\obj\Debug\netcoreapp3.0\BlockingCollection5.pdb

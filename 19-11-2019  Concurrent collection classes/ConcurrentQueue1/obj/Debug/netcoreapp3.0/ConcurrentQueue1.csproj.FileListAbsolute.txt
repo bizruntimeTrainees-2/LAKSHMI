@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\ConcurrentQueue1\bin\Debug\netcoreapp3.0\ConcurrentQueue1.exe
+C:\Users\Pavan\source\repos\ConcurrentQueue1\bin\Debug\netcoreapp3.0\ConcurrentQueue1.deps.json
+C:\Users\Pavan\source\repos\ConcurrentQueue1\bin\Debug\netcoreapp3.0\ConcurrentQueue1.runtimeconfig.json
+C:\Users\Pavan\source\repos\ConcurrentQueue1\bin\Debug\netcoreapp3.0\ConcurrentQueue1.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\ConcurrentQueue1\bin\Debug\netcoreapp3.0\ConcurrentQueue1.dll
+C:\Users\Pavan\source\repos\ConcurrentQueue1\bin\Debug\netcoreapp3.0\ConcurrentQueue1.pdb
+C:\Users\Pavan\source\repos\ConcurrentQueue1\obj\Debug\netcoreapp3.0\ConcurrentQueue1.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\ConcurrentQueue1\obj\Debug\netcoreapp3.0\ConcurrentQueue1.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\ConcurrentQueue1\obj\Debug\netcoreapp3.0\ConcurrentQueue1.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\ConcurrentQueue1\obj\Debug\netcoreapp3.0\ConcurrentQueue1.dll
+C:\Users\Pavan\source\repos\ConcurrentQueue1\obj\Debug\netcoreapp3.0\ConcurrentQueue1.pdb
