@@ -1,0 +1,14 @@
+$font : TimesNewRoman;
+$color:red;
+$fontsize : 20px;
+$width : 180px;
+
+body
+{
+  font-family:$font;
+  font-size:$fontsize;
+  color : $color;
+}
+#container {
+  width : $width;
+}

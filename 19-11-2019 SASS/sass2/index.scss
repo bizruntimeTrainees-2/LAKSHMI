@@ -1,0 +1,12 @@
+
+$color : red;
+
+h1
+{
+  $color : pink;
+  color : $color;
+}
+p
+{
+  color : $color;
+}

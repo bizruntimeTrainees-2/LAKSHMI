@@ -1,0 +1,12 @@
+$fontsize : 20px;
+$fontfamily : italian;
+h
+{
+  $fontsize : 50px;
+  font-size : $fontsize;
+
+}
+
+p{
+  font-family : $fontfamily;
+}
