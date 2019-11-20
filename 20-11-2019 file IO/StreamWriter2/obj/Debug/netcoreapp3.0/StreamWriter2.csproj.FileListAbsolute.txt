@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\StreamWriter2\bin\Debug\netcoreapp3.0\StreamWriter2.exe
+C:\Users\Pavan\source\repos\StreamWriter2\bin\Debug\netcoreapp3.0\StreamWriter2.deps.json
+C:\Users\Pavan\source\repos\StreamWriter2\bin\Debug\netcoreapp3.0\StreamWriter2.runtimeconfig.json
+C:\Users\Pavan\source\repos\StreamWriter2\bin\Debug\netcoreapp3.0\StreamWriter2.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\StreamWriter2\bin\Debug\netcoreapp3.0\StreamWriter2.dll
+C:\Users\Pavan\source\repos\StreamWriter2\bin\Debug\netcoreapp3.0\StreamWriter2.pdb
+C:\Users\Pavan\source\repos\StreamWriter2\obj\Debug\netcoreapp3.0\StreamWriter2.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\StreamWriter2\obj\Debug\netcoreapp3.0\StreamWriter2.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\StreamWriter2\obj\Debug\netcoreapp3.0\StreamWriter2.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\StreamWriter2\obj\Debug\netcoreapp3.0\StreamWriter2.dll
+C:\Users\Pavan\source\repos\StreamWriter2\obj\Debug\netcoreapp3.0\StreamWriter2.pdb

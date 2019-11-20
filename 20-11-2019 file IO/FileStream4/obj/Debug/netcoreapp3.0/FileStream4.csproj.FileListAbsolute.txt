@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\FileStream4\bin\Debug\netcoreapp3.0\FileStream4.exe
+C:\Users\Pavan\source\repos\FileStream4\bin\Debug\netcoreapp3.0\FileStream4.deps.json
+C:\Users\Pavan\source\repos\FileStream4\bin\Debug\netcoreapp3.0\FileStream4.runtimeconfig.json
+C:\Users\Pavan\source\repos\FileStream4\bin\Debug\netcoreapp3.0\FileStream4.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\FileStream4\bin\Debug\netcoreapp3.0\FileStream4.dll
+C:\Users\Pavan\source\repos\FileStream4\bin\Debug\netcoreapp3.0\FileStream4.pdb
+C:\Users\Pavan\source\repos\FileStream4\obj\Debug\netcoreapp3.0\FileStream4.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\FileStream4\obj\Debug\netcoreapp3.0\FileStream4.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\FileStream4\obj\Debug\netcoreapp3.0\FileStream4.dll
+C:\Users\Pavan\source\repos\FileStream4\obj\Debug\netcoreapp3.0\FileStream4.pdb
