@@ -1,0 +1,172 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<style>
+body {font-family: Arial;}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+.tab button {
+  background-color:light blue;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 16px 16px;
+  font-size: 17px;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+<div class="tab">
+  <button class="tablinks" onclick="Doing(event, 'crud')">CRUD</button>
+  <button class="tablinks" onclick="Doing(event, 'header')">HEADERS</button>
+  <button class="tablinks" onclick="Doing(event, 'authentication')">AUTHENTICATION</button>
+</div>
+
+<div id="crud" class="tabcontent">
+    <button class="button">GET</button>
+<body>
+<script>
+		i = 0;
+		function display()
+		{
+			a = document.getElementById("demo");
+			b = document.createElement("input");
+			b.setAttribute("type","text");
+			b.setAttribute("id","box"+(i++));
+			a.appendChild(b);
+			}
+			</script>
+    <input type = "button" value = "+" onclick = "display()">
+	<div id = "demo"> </div>
+	<button class = "button">SUBMIT </button> </br>
+	</body>
+    <button class="button">POST</button></br>
+	<div id = "POST">
+	<table>
+	<tr>
+	<td>
+	<input type = "text" placeholder = "text" name = "">
+	<button class= "button" >Submit </button>
+	</td>
+	</tr>
+	</table>
+	</div>
+    <button class="button">POSTFORMDATA</button></br>
+	<body>
+<script>
+		i = 0;
+		function view()
+		{
+			a = document.getElementById("intro");
+			b = document.createElement("input");
+			b.setAttribute("type","text");
+			b.setAttribute("id","box"+(i++));
+			a.appendChild(b);
+			}
+			</script>
+    <input type = "button" value = "+" onclick = "view()">
+	<div id = "intro"> </div>
+	<button class = "button">SUBMIT </button> </br>
+	</body>
+    <button class="button">PUT</button></br>
+	<div id = "PUT">
+	<table>
+	<tr>
+	<td>
+	<input type = "text" placeholder = "text" name = "">
+	<button class= "button" >Submit </button>
+	</td>
+	</tr>
+	</table>
+	</div>
+    <button class="button">PATCH</button></br>
+	<div id = "PATCH">
+	<table>
+	<tr>
+	<td>
+	<input type = "text" placeholder = "text" name = "">
+	<button class= "button" >Submit </button>
+	</td>
+	</tr>
+	</table>
+	</div>
+    <button class="button">AUTHENTICATION</button></br>
+	<div id = "AUTHENTICATION">
+	<table>
+	<tr>
+	<td>
+	<input type = "text" placeholder = "text" name = "">
+	<button class= "button" >Submit </button>
+	</td>
+	</tr>
+	</table>
+	</div>
+</div>
+<div id="header" class="tabcontent">
+<button class = "button">REQUEST HEADERS </button></br>
+<button class = "button">RESPONSE HEADERS</button></br>
+  
+</div>
+
+<div id="authentication" class="tabcontent">
+<button class = "button" onclick = "openForm" > BASIC AUTH </button>
+<div id = "demo">
+<form>
+USERNAME: <input type = "text" name = "uname" placeholder = "Enter your Email"> </br>
+PASSWORD:<input type = "text" name = "pword" placeholder = "Enter your password"></br>
+<button type = "submit" class = "button">SUBMIT </button>
+</form>
+</div>
+</div>
+<script>
+function openForm()
+{
+	document.getElementById("demo").style.display = "block";
+}
+function closeForm()
+{
+	document.getElementById("demo").style.display = "none';
+	}
+	</script>
+<script>
+function Doing(evt, operator) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(operator).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   
+</body>
+</html> 
