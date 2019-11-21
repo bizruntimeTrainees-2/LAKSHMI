@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\StreamReader5\bin\Debug\netcoreapp3.0\StreamReader5.exe
+C:\Users\Pavan\source\repos\StreamReader5\bin\Debug\netcoreapp3.0\StreamReader5.deps.json
+C:\Users\Pavan\source\repos\StreamReader5\bin\Debug\netcoreapp3.0\StreamReader5.runtimeconfig.json
+C:\Users\Pavan\source\repos\StreamReader5\bin\Debug\netcoreapp3.0\StreamReader5.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\StreamReader5\bin\Debug\netcoreapp3.0\StreamReader5.dll
+C:\Users\Pavan\source\repos\StreamReader5\bin\Debug\netcoreapp3.0\StreamReader5.pdb
+C:\Users\Pavan\source\repos\StreamReader5\obj\Debug\netcoreapp3.0\StreamReader5.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\StreamReader5\obj\Debug\netcoreapp3.0\StreamReader5.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\StreamReader5\obj\Debug\netcoreapp3.0\StreamReader5.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\StreamReader5\obj\Debug\netcoreapp3.0\StreamReader5.dll
+C:\Users\Pavan\source\repos\StreamReader5\obj\Debug\netcoreapp3.0\StreamReader5.pdb

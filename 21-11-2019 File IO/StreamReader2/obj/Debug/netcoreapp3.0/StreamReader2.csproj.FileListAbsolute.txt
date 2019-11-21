@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\StreamReader2\bin\Debug\netcoreapp3.0\StreamReader2.exe
+C:\Users\Pavan\source\repos\StreamReader2\bin\Debug\netcoreapp3.0\StreamReader2.deps.json
+C:\Users\Pavan\source\repos\StreamReader2\bin\Debug\netcoreapp3.0\StreamReader2.runtimeconfig.json
+C:\Users\Pavan\source\repos\StreamReader2\bin\Debug\netcoreapp3.0\StreamReader2.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\StreamReader2\bin\Debug\netcoreapp3.0\StreamReader2.dll
+C:\Users\Pavan\source\repos\StreamReader2\bin\Debug\netcoreapp3.0\StreamReader2.pdb
+C:\Users\Pavan\source\repos\StreamReader2\obj\Debug\netcoreapp3.0\StreamReader2.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\StreamReader2\obj\Debug\netcoreapp3.0\StreamReader2.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\StreamReader2\obj\Debug\netcoreapp3.0\StreamReader2.dll
+C:\Users\Pavan\source\repos\StreamReader2\obj\Debug\netcoreapp3.0\StreamReader2.pdb
+C:\Users\Pavan\source\repos\StreamReader2\obj\Debug\netcoreapp3.0\StreamReader2.csprojAssemblyReference.cache

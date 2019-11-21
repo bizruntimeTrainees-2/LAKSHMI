@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\StreamReader4\bin\Debug\netcoreapp3.0\StreamReader4.exe
+C:\Users\Pavan\source\repos\StreamReader4\bin\Debug\netcoreapp3.0\StreamReader4.deps.json
+C:\Users\Pavan\source\repos\StreamReader4\bin\Debug\netcoreapp3.0\StreamReader4.runtimeconfig.json
+C:\Users\Pavan\source\repos\StreamReader4\bin\Debug\netcoreapp3.0\StreamReader4.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\StreamReader4\bin\Debug\netcoreapp3.0\StreamReader4.dll
+C:\Users\Pavan\source\repos\StreamReader4\bin\Debug\netcoreapp3.0\StreamReader4.pdb
+C:\Users\Pavan\source\repos\StreamReader4\obj\Debug\netcoreapp3.0\StreamReader4.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\StreamReader4\obj\Debug\netcoreapp3.0\StreamReader4.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\StreamReader4\obj\Debug\netcoreapp3.0\StreamReader4.dll
+C:\Users\Pavan\source\repos\StreamReader4\obj\Debug\netcoreapp3.0\StreamReader4.pdb

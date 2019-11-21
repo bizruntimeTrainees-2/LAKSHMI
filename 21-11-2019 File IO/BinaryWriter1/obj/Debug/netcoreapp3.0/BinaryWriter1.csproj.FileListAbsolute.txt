@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\BinaryWriter1\bin\Debug\netcoreapp3.0\BinaryWriter1.exe
+C:\Users\Pavan\source\repos\BinaryWriter1\bin\Debug\netcoreapp3.0\BinaryWriter1.deps.json
+C:\Users\Pavan\source\repos\BinaryWriter1\bin\Debug\netcoreapp3.0\BinaryWriter1.runtimeconfig.json
+C:\Users\Pavan\source\repos\BinaryWriter1\bin\Debug\netcoreapp3.0\BinaryWriter1.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\BinaryWriter1\bin\Debug\netcoreapp3.0\BinaryWriter1.dll
+C:\Users\Pavan\source\repos\BinaryWriter1\bin\Debug\netcoreapp3.0\BinaryWriter1.pdb
+C:\Users\Pavan\source\repos\BinaryWriter1\obj\Debug\netcoreapp3.0\BinaryWriter1.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\BinaryWriter1\obj\Debug\netcoreapp3.0\BinaryWriter1.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\BinaryWriter1\obj\Debug\netcoreapp3.0\BinaryWriter1.dll
+C:\Users\Pavan\source\repos\BinaryWriter1\obj\Debug\netcoreapp3.0\BinaryWriter1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\TextWriter1\bin\Debug\netcoreapp3.0\TextWriter1.exe
+C:\Users\Pavan\source\repos\TextWriter1\bin\Debug\netcoreapp3.0\TextWriter1.deps.json
+C:\Users\Pavan\source\repos\TextWriter1\bin\Debug\netcoreapp3.0\TextWriter1.runtimeconfig.json
+C:\Users\Pavan\source\repos\TextWriter1\bin\Debug\netcoreapp3.0\TextWriter1.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\TextWriter1\bin\Debug\netcoreapp3.0\TextWriter1.dll
+C:\Users\Pavan\source\repos\TextWriter1\bin\Debug\netcoreapp3.0\TextWriter1.pdb
+C:\Users\Pavan\source\repos\TextWriter1\obj\Debug\netcoreapp3.0\TextWriter1.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\TextWriter1\obj\Debug\netcoreapp3.0\TextWriter1.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\TextWriter1\obj\Debug\netcoreapp3.0\TextWriter1.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\TextWriter1\obj\Debug\netcoreapp3.0\TextWriter1.dll
+C:\Users\Pavan\source\repos\TextWriter1\obj\Debug\netcoreapp3.0\TextWriter1.pdb

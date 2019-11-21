@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\SwSr\bin\Debug\netcoreapp3.0\SwSr.exe
+C:\Users\Pavan\source\repos\SwSr\bin\Debug\netcoreapp3.0\SwSr.deps.json
+C:\Users\Pavan\source\repos\SwSr\bin\Debug\netcoreapp3.0\SwSr.runtimeconfig.json
+C:\Users\Pavan\source\repos\SwSr\bin\Debug\netcoreapp3.0\SwSr.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\SwSr\bin\Debug\netcoreapp3.0\SwSr.dll
+C:\Users\Pavan\source\repos\SwSr\bin\Debug\netcoreapp3.0\SwSr.pdb
+C:\Users\Pavan\source\repos\SwSr\obj\Debug\netcoreapp3.0\SwSr.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\SwSr\obj\Debug\netcoreapp3.0\SwSr.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\SwSr\obj\Debug\netcoreapp3.0\SwSr.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\SwSr\obj\Debug\netcoreapp3.0\SwSr.dll
+C:\Users\Pavan\source\repos\SwSr\obj\Debug\netcoreapp3.0\SwSr.pdb
