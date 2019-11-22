@@ -1,0 +1,21 @@
+
+<html>
+<head>
+<title> LAKSHMI ROYAL </title>
+<meta charSet = "UTF-8">
+<meta name = "viewport" content = "width = device - width,initial-scale = 1">
+</head>
+<body>
+	<div>
+	<h1> My page was loaded </h1>
+	</div>
+	<button> click </button>
+	<script>
+	var worker = new Worker("Myweb.js");
+	worker.onmessage = function(event)
+	{
+		console.log(event.data);
+		}
+</script>
+</body>
+</html>
