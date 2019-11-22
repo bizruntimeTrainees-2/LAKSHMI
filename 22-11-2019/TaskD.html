@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    
+  </head>
+ <body >   
+ <nav class="navbar bg-light">
+  <ul class="navbar-nav">
+  <div class="container-fluid">   
+  
+ <li class="nav-item"> <b-tab type="button" class="btn btn-default pd:10px" data-toggle="collapse" data-target="#d1">CRUD</b-tab></li>
+ <!--data-taggle is used for to create collapse functionality(to show and hide the content) -->
+ <!-- data-target contains css selector that points to the html elements -->
+  <div id="d1" class="collapse">
+    <div>
+          <button type = "button" class="bg-info" href="#">GET</button>
+          <button type = "button" class="btn-default" onclick="call()"><a href="#">+</a></button>
+          <span id="add"></span>
+          <input type="text"/>
+          <input type="submit" class="bg-info"onclick="SendRequest()"/>
+       
+  </div>
+  <div>
+     
+          <button type = "button" class="bg-info" href="#">POST</button>
+          <input type="text"/>
+          <input type="submit" class="bg-info" onclick="Post()"/>
+       
+  </div>     
+  <div>
+      
+          <button type = "button" class="bg-info" href="#" >POSTFORMDATA</button>
+          <button type = "button" class="btn-default" onclick="Talk()"><a href="#">+</a></button>
+          <span id="add1"></span>
+          <input type="text"/>
+          <input type="submit" class="bg-info" onclick="PostForm()"/>
+        
+  </div>     
+  <div>
+      
+          <button type = "button" class="bg-info" href="#" >PUT</button>
+          <input type="text"/>
+          <input type="submit" class="bg-info" onclick="Put()"/>
+       
+  </div>     
+  <div>
+      
+          <button type = "button" class="bg-info" href="#" >PATCH</button>
+          <input type="text"/>
+          <input type="submit" class="bg-info" onclick="Patch()"/>
+        
+  </div>     
+    <div>
+     
+          <button type = "button" class="bg-info" href="#" >DELETE</button>
+          <input type="text"/>
+          <input type="submit" class="bg-info" onclick="Delete()"/>
+        
+    </div>     
+       
+  </div>
+
+ <li><b-tab type="button" class="btn btn-default pd:10px" data-toggle="collapse" data-target="#d2">HEADERS</b-tab></li> 
+  <div id="d2" class="collapse">
+      <div>
+         
+              <button type = "button"  class="bg-success" href="#" >REQUEST HEADER</button>
+              <input type="text"/>
+              <input type="submit" class="bg-success"/>
+           
+      </div>
+      <div>
+              <button type = "button" class="bg-success" href="#" >RESPONSE HEADER</button>
+              <input type="text" />
+              <input type="submit" class="bg-success"/>
+          
+      </div>
+    </div>
+  <li>  <b-tab type="button" class="btn btn-default" data-toggle="collapse" data-target="#d3">AUTHENTICATION</b-tab></li>
+    <div id="d3" class="collapse">
+        <li><b-tab  type="button" class="btn-sm text-info" data-toggle="collapse" data-target="#d4"><a href="#">BASIC AUTH </a></b-tab> </li>
+    </div>
+    <div id="d4" class="collapse">
+        <li>USERNAME:<input type="password" class="btn-sm" role="button"/></li>
+        <li>PASSWORD<input type="text" class="btn-sm" role="button"/></li>
+        <li><input type="submit" class="btn-sm btn-link" onclick="SendData()"/></li>
+      </div>
+ </div>
+    
+   </ul>
+    <div id="view"></div>              
+                                            
+                       
+                                  
+      <script src = "Get.js"> </script>
+	  <script src = "Post.js"></script>
+	  <script src = "Delete.js"> </script>
+	  <script src = "Postformdata.js"></script>
+	  <script src = "Put.js"> </script>
+	  <script src = "Patch.js"></script>   
+                     
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+  </html>
