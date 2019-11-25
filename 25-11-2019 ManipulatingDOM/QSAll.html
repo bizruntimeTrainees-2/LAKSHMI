@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<meta charSet = "UTF-8">
+<meta name = "viewport" content = "width = device - width, initial-scale = 1">
+<title> QUERY SELECTORALL </title>
+</head>
+<h1 class = "add"> HIII </h1>
+<p class= "add"> Good Morning to all </p>
+<p> click the below to add the styles</p>
+<button type = "button" onclick = "show()"> CLICK </button>
+<script>
+function show()
+{
+	var x,i;
+	x = document.querySelectorAll(".add");
+	for(i = 0; i < x.length ; i++)
+	{
+		x[i].style.backgroundColor = "violet";
+		}
+		}
+		</script>
+		</body>
+		</html>

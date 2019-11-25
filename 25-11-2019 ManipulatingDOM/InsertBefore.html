@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charSet = "UTF-8">
+<meta name = "viewport" content = "width = device - width, initial-scale = 1">
+<title> LAKSHMI ROYAL </title>
+</head>
+<body>
+<div id = "target">
+<p> inserting the elements at the beginning</p>
+</div>
+<button type = "button" onclick = "addBefore()"> Insert Element </button>
+<script>
+function addBefore()
+{
+var newDiv = document.createElement("div");
+var newContent = document.createTextNode("Hi!! to all");
+newDiv.appendChild(newContent);
+var currentDiv = document.getElementById("target");
+document.body.insertBefore(newDiv,currentDiv);
+}
+</script>
+</body>
+</html>
