@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\SocketProgram3\bin\Debug\netcoreapp3.0\SocketProgram3.exe
+C:\Users\Pavan\source\repos\SocketProgram3\bin\Debug\netcoreapp3.0\SocketProgram3.deps.json
+C:\Users\Pavan\source\repos\SocketProgram3\bin\Debug\netcoreapp3.0\SocketProgram3.runtimeconfig.json
+C:\Users\Pavan\source\repos\SocketProgram3\bin\Debug\netcoreapp3.0\SocketProgram3.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\SocketProgram3\bin\Debug\netcoreapp3.0\SocketProgram3.dll
+C:\Users\Pavan\source\repos\SocketProgram3\bin\Debug\netcoreapp3.0\SocketProgram3.pdb
+C:\Users\Pavan\source\repos\SocketProgram3\obj\Debug\netcoreapp3.0\SocketProgram3.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\SocketProgram3\obj\Debug\netcoreapp3.0\SocketProgram3.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\SocketProgram3\obj\Debug\netcoreapp3.0\SocketProgram3.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\SocketProgram3\obj\Debug\netcoreapp3.0\SocketProgram3.dll
+C:\Users\Pavan\source\repos\SocketProgram3\obj\Debug\netcoreapp3.0\SocketProgram3.pdb
