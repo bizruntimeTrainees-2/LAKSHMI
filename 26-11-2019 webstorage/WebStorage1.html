@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<meta charSet = "UTF-8">
+<meta name = "viewport" content = "width = device - width, initial-scale = 1">
+<title> WEB STORAGE API </title>
+</head>
+<div id = "d1"> </div>
+<script>
+if(typeof(Storage) !== "undefined")
+{
+	localStorage.setItem("firstName","lakshmi");
+	document.getElementById("d1").innerHTML = localStorage.getItem("firstName");
+	}
+	else
+	{
+		document.getElementById("d1").innerHTML = "Sorry!! this browser was not supported";
+		}
+		</script>
+		</body>
+		</html>
+
