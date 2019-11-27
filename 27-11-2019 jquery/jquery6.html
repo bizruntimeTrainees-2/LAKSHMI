@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> JQUERY </title>
+<script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function()
+{
+	$('[title]').css('color','pink');
+		//$('div[title]').css('color','pink');  it selects only div elements
+	});
+	</script>
+	</head>
+	<body>
+	<div title = "one">
+	DIV1 
+	</div>
+	<br/>
+	<div title = "two">
+	DIV2
+	</div>
+	<br/>
+	<div title = "three">
+	DIV3
+	</div>
+	<br/>
+	<span title = "four">
+	SPAN1
+	</span>
+	<p> this is attribute selector </p>
+	</body>
+	</html>

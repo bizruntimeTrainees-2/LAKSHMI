@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> JQUERY </title>
+<script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function()
+{
+	$('input').each(function()		//this selects only particular elements not dropdown lists and multiple text boxes
+	{
+		alert($(this).val());		//but (':input') selects all elements
+		});
+	
+	});
+	</script>
+	</head>
+	<body>
+	FIRTS NAME:<input  type = "text" value = "LAKSHMI"/> <br></br>
+	LAST NAME: <input type = "text" value = "AVULA"/> <br></br>
+	GENDER: <input type = "radio" name = "gender" value = "Male">Male 
+			<input type = "radio" name = "gender" value = "Female"> Female
+			<br></br>
+	SKILLS:
+	<input type = "checkBox" name = "skills" value = "JAVA"/> JAVA
+	<input type = "checkBox" name = "skills" value = "C#"/> C#
+	<input type = "checkBox" name = "skills" value = ".NET"/> .NET
+	<br></br>
+	COUNTRY:
+	<select>
+	<option selected = "selected" value = "USA"> USA </option>
+	<option value = "INDIA">INDIA </option>
+	<option value = "AFRICA"> AFRICA </option>
+	</select>
+	<br></br>
+	<input type = "button" value = "submit"/>
+	</body>
+	</html>
