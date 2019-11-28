@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+      <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+   
+  </head>
+ <body > 
+ <nav class="navbar bg-light">
+  <ul class="navbar-nav">
+  <div class="container-fluid">   
+  
+ <li class="nav-item"> <b-tab type="button" class="btn btn-default" data-toggle="collapse" data-target="#d1">CRUD</b-tab></li>
+ <!--data-taggle is used for to create collapse functionality(to show and hide the content) -->
+ <!-- data-target contains css selector that points to the html elements -->
+  <div id="d1" class="collapse">
+    <div id="p">
+          <button type = "button" class="bg-info" href="#">GET</button>
+          <button class="btn-default" id="add">+</button>
+          <input type="text"  id="a1" placeholder="data"/>
+          <input type="text"  id="a2" placeholder="data"/>
+          <input type="submit"  class="bg-info" onclick="SendRequest()"/>
+   </div>
+  <div>
+          <button type = "button" class="bg-info" href="#">POST</button>
+          <input type="text" id="post" placeholder="data"/>
+          <input type="submit" class="bg-info" onclick="Post()"/>
+  </div>     
+  <div id = "q">
+      
+          <button type = "button" class="bg-info" href="#" >POST FORM DATA</button>
+          <button class="btn-default" id="add1">+</button>
+          <input type="text" id="b1" placeholder="data"/>
+          <input type="text" id="b2" placeholder="data"/>
+          <input type="submit"  class="bg-info" onclick="PostFormData()"/>
+  </div>     
+  <div>
+          <button type = "button"  class="bg-info" href="#" >PUT</button>
+          <input type="text" id="put" placeholder="data"/>
+          <input type="submit" class="bg-info" onclick="Put()"/>
+  </div>     
+  <div>
+          <button type = "button" class="bg-info" href="#" >PATCH</button>
+          <input type="text" id="patch" placeholder="data"/>
+          <input type="submit" class="bg-info"onclick="Patch()"/>
+  </div>     
+    <div>
+          <button type  = "button" class="bg-info" href="#" >DELETE</button>
+          <input type="text" id="delete" placeholder="data"/>
+          <input type="submit" class="bg-info"onclick="Delete()"/>
+       
+    </div>            
+  </div>
+  </div>
+  <div class="container-fluid">
+ <li><b-tab type="button" class="btn btn-default " data-toggle="collapse" data-target="#d2">HEADERS</b-tab></li> 
+  <div id="d2" class="collapse">
+      <div>
+              <button type = "button" class="bg-success" href="#" >REQUEST HEADER</button>
+              <input type="text" id="header2"/>
+              <input type="submit" class="bg-success" onclick="RequestHeader()"/>
+      </div>
+      <div>
+              <button type = "button" class="bg-success" href="#" >RESPONSE HEADER</button>
+              <input type="text" id = "header1"/>
+              <input type="submit" class="bg-success" onclick="ResponseHeader()"/> 
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+  <li>  <b-tab type="button" class="btn btn-default" data-toggle="collapse" data-target="#d3">AUTHENTICATION</b-tab></li>
+    <div id="d3" class="collapse">
+        <li><b-tab  type="button" class="btn-default" data-toggle="collapse" data-target="#d4"><a href="#">BASIC AUTH </a></b-tab> </li>
+    </div>
+    <div id="d4" class="collapse">
+        <li>USERNAME:<input type="text" id = "name" placeholder = "USERNAME" class = "btn-default"/></li>
+        <li>PASSWORD<input type="password" id = "pwd" placeholder = "PASSWORD" class="btn-default"/></li>
+        <li><input type="submit" class="btn-sm btn-link" onclick="SendData()"/></li>
+      </div>
+ </div>
+    
+   </ul>
+   <div id="view">
+   
+    </div>                       
+                                            
+          
+    <script src=Get.js></script>
+	<script src = PostFormData.js></script>
+    <script src=Post.js></script>              
+    <script src=Put.js></script>              
+    <script src=Patch.js></script>              
+    <script src=Delete.js></script> 
+	<script src = RequestHeader.js></script>
+ <script>
+		function  Basic_auth(username, password)
+{
+    var d1 = username + ":" + password;
+    var d2 = btoa(d2);	//for decoding purpose
+    return "Basic" + d2;
+}
+
+function SendData()
+{
+    var username = $("#name").val();
+    var password = $("#pwd").val();
+
+    var auth = Basic_auth(username,password);
+    var xhr = new XMLHttpRequest();
+    xhr.withCredentials = true;
+    xhr.onreadystatechange=function(){
+        if(xhr.status== 200&& xhr.readyState==4)
+        {
+          document.getElementById("view").innerHTML = xhr.responseText ;
+        } 
+      };
+   xhr.open("GET","/basic-auth"); 
+  xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");  
+  xhr.setRequestHeader("Accept", "*/*"); 
+  xhr.setRequestHeader("cache-control", "no-cache");
+  xhr.setRequestHeader("postman-token", "85640a1b-7f2c-463e-9f82-c788a101ecc6","0141b2e3-5e5e-42d7-847e-c960567850f0"); 
+  xhr.send(auth);
+}
+    </script>                        
+               
+    
+   
+  </body>
+  </html>
