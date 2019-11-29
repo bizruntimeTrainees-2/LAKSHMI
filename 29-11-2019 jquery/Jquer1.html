@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<title>JQUERY LEARNING </title>
+<script type = "text/javascript src = "https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js></script>
+</head>
+<body>
+<div class = "container" style = "width: 200px">
+<br/>
+<h2 align = "center">LOGIN </h2>
+<br/>
+<form id = "login_form">
+<label>Username</label>
+<input type = "text" name = "username" id = "username"  placeholder = "username"/>
+<br/>
+<label> Password </label>
+ <input type = "password" name = "password" id = "password" placeholder = "password"/>
+ <br/>
+ <button type = "button" name = "show_password" id = "show_password"> Show </button>
+ <br/>
+ </form>
+ </div>
+ <body>
+ <html>
+ <script>
+ $(document).ready(function()
+ {
+	 $("#show_password").on('click',function()
+	 {
+		 var passwordField = $("#password");
+		 var passwordFieldType = passwordField.attr('type');
+		 if(passwordFieldType == 'password')
+		 {
+			 passwordField.attr('type','text');
+			 $(this).text('hide');
+		}
+			 else
+			 {
+				 passwordField.attr('type','password');
+				  $(this).text('show');
+			}
+		 });
+		 });
+
+ </script>
