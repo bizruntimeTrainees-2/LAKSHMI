@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide("slow", function(){
+      alert("The paragraph is hidden");
+    });
+  });
+});
+</script>
+</head>
+<body>
+
+<button>Hide</button>
+
+<p>JavaScript statements are executed line by line. However, with effects, the next line of code can be run even though the effect is not finished. This can create errors.
+
+</p>
+<p> To prevent that errors we will use call back functions </p>
+
+</body>
+</html>

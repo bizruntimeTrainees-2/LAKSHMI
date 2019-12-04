@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> LAKSHMI ROYAL AVULA </title>
+</head>
+<body>
+<div id = "intro">
+<h1> This is Ajax </h1>
+<button type = "button" onclick = "loadContent()">click here </button>
+</div>
+<script>
+function loadContent()
+{
+	var http = new XMLHttpRequest();
+	http.onreadyStateChange = function()
+	{
+		if (this.readyState == 4 && this.status == 200)
+		{
+			document.getElementById("intro").innerHTML = this.responseText;
+		}
+	};
+	http.open("GET","ex_info.txt",true);
+	http.send();
+	}
+	</script>
+	</body>
+	</html>

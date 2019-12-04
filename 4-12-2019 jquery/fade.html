@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#div1").fadeIn();		//fadeIn method is used to display in a hidden element.
+    $("#div2").fadeIn("slow");
+    $("#div3").fadeIn(1000);
+  });
+});
+</script>
+</head>
+<body>
+
+<p>Demonstrate fadeIn() with different parameters.</p>
+
+<button>Click this</button><br><br>
+
+<div id="div1" style="width:20px;height:20px;display:none;background-color:black;"></div><br>
+<div id="div2" style="width:20px;height:20px;display:none;background-color:pink;"></div><br>
+<div id="div3" style="width:20px;height:20px;display:none;background-color:violet;"></div>
+
+</body>
+</html>
