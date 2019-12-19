@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bizruntime-54\\source\\repos\\ASPmodel\\ASPmodel\\ASPmodel.csproj",
+      "projectUniqueName": "F:\\git-asp.net\\bizruntimeTrainees\\LAKSHMI\\LAKSHMI\\LAKSHMI\\18-12-2019 MVC,coreDI\\ASPmodel\\ASPmodel\\ASPmodel.csproj",
       "projectName": "ASPmodel",
-      "projectPath": "C:\\Users\\Bizruntime-54\\source\\repos\\ASPmodel\\ASPmodel\\ASPmodel.csproj",
+      "projectPath": "F:\\git-asp.net\\bizruntimeTrainees\\LAKSHMI\\LAKSHMI\\LAKSHMI\\18-12-2019 MVC,coreDI\\ASPmodel\\ASPmodel\\ASPmodel.csproj",
       "packagesPath": "C:\\Users\\Bizruntime-54\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bizruntime-54\\source\\repos\\ASPmodel\\ASPmodel\\obj\\",
+      "outputPath": "F:\\git-asp.net\\bizruntimeTrainees\\LAKSHMI\\LAKSHMI\\LAKSHMI\\18-12-2019 MVC,coreDI\\ASPmodel\\ASPmodel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bizruntime-54\\AppData\\Roaming\\NuGet\\NuGet.Config",
