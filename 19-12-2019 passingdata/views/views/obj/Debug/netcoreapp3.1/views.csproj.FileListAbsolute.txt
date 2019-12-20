@@ -37,3 +37,42 @@ C:\Users\Bizruntime-54\source\repos\views\views\obj\Debug\netcoreapp3.1\Razor\Vi
 C:\Users\Bizruntime-54\source\repos\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
 C:\Users\Bizruntime-54\source\repos\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Bizruntime-54\source\repos\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\appsettings.json
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.exe
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.deps.json
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.runtimeconfig.json
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.runtimeconfig.dev.json
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.dll
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.pdb
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.Views.dll
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\bin\Debug\netcoreapp3.1\views.Views.pdb
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.csprojAssemblyReference.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\staticwebassets\views.StaticWebAssets.Manifest.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\staticwebassets\views.StaticWebAssets.xml
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.MvcApplicationPartsAssemblyInfo.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.RazorAssemblyInfo.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.RazorAssemblyInfo.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.AssemblyInfoInputs.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.AssemblyInfo.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.TagHelpers.input.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.TagHelpers.output.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.RazorCoreGenerate.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\MyViews\Test.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details2.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\HomeDetails.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\IDetails1.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index1.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\Razor\Views\Test\Update.cshtml.g.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.RazorTargetAssemblyInfo.cache
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.RazorTargetAssemblyInfo.cs
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.Views.pdb
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.dll
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.pdb
+F:\git-asp.net\bizruntimeTrainees\LAKSHMI\LAKSHMI\LAKSHMI\19-12-2019 passingdata\views\views\obj\Debug\netcoreapp3.1\views.csproj.CopyComplete

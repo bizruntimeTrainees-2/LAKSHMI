@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers",
+    "\\Viewmodels",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Shared",
+    "\\Views\\Test",
+    "\\wwwroot",
+    "\\wwwroot\\javascript"
   ],
+  "SelectedNode": "\\Views\\Shared\\_Layout1.cshtml",
   "PreviewInSolutionExplorer": false
 }
