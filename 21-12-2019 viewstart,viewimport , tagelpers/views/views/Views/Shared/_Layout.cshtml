@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/css/StyleSheet.css" rel="stylesheet" />
+
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="container">
+        @RenderBody() 
+        @*
+           render body is the specific location where view specific content will
+            be injected in the layout view
+        *@
+    </div>
+    @*
+   @RenderSection("Scripts",required: true)
+
+        *@
+    @*
+   here Scripts function is mandatory, but we do not use scripts functionin 
+        index so exception came, if u will get it to the optional 
+        then use required: false
+    *@
+</body>
+</html>

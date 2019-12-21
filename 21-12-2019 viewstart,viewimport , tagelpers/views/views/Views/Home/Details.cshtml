@@ -1,0 +1,124 @@
+﻿
+@*
+@model views.Viewmodels.HomeDetailsviewmodels
+   *@
+
+@model HomeDetailsviewmodels
+@{
+   
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Employee Details";
+}
+
+@*
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <body>
+*@
+
+@*
+    <h1>@ViewData["PageTitle"]</h1>
+
+    @{
+        var employee = ViewData["Employee"] as views.Models.Employee;
+    }
+
+    <div>
+        Name: @employee.Name
+    </div>
+    <div>
+        Email:@employee.Email
+    </div>
+    <div>
+        Department: @employee.Department
+    </div>
+*@
+
+@*
+    <h1>@ViewBag.PageTitle</h1>
+
+    <div>
+        Name: @ViewBag.employee.Name
+    </div>
+    <div>
+        Email:@ViewBag.employee.Email
+    </div>
+    <div>
+        Department: @ViewBag.employee.Department
+    </div>
+*@
+
+@*
+
+    <h1>@ViewBag.PageTitle</h1>
+
+    <div>
+        Name: @Model.Name
+    </div>
+    <div>
+        Email:@Model.Email
+    </div>
+    <div>
+        Department: @Model.Department
+    </div>
+*@
+
+@*
+
+        <h1>@Model.PageTitle</h1>
+
+        <div>
+            Name: @Model.Employee.Name
+        </div>
+        <div>
+            Email:@Model.Employee.Email
+        </div>
+        <div>
+            Department: @Model.Employee.Department
+        </div>
+    </body>
+    </html>
+*@
+@*
+<h1>@Model.PageTitle</h1>
+
+<div>
+    Name: @Model.Employee.Name
+</div>
+<div>
+    Email:@Model.Employee.Email
+</div>
+<div>
+    Department: @Model.Employee.Department
+</div>
+    *@
+    <div class="row justify-content-around text-center m-3">
+        <div class="col-sm-8">
+            <div class="card">
+                <div class="card-header">
+                    <h1>@Model.Employee.Name</h1>
+                </div>
+            <div class="card-body text-center">
+            <img class="card-img-top" src="~/images/natureimage.jpg" />
+            <h3>Employee Id: @Model.Employee.Id</h3>
+            <h3>Email: @Model.Employee.Email</h3>
+            <h3>Department: @Model.Employee.Department</h3>
+                </div>
+            <div class="card-footer text-center">
+                <a asp-controller="home" asp-action="index" class="btn btn-primary">Back</a>
+                <a href="#" class="btn btn-primary">Delete</a>
+                <a href="#" class="btn btn-primary">Edit</a>
+            </div>
+        </div>
+       </div>
+        </div>
+    
+
+@*
+
+@section Scripts {
+<script src="~/js/CustomScript.js"></script>
+}
+    *@
